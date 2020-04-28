@@ -1,11 +1,11 @@
 .header {
-    color: #69C7FA;
+    color: #F2766B;
     display: flex;
     justify-content: center;
-    background-color: #F582FA;
+    background-color: #0F2624;
     font-size: 3em;
 }
 
 body {
-    background-color: #F582FA;
+    background-color: #0F2624;
 }
