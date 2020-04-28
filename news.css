@@ -1,0 +1,65 @@
+body {
+    background-color: #eddad2;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+#cd {
+    color: #800000;
+}
+
+.links {
+    color: #5f89ac;
+    display: flex;
+    font-size: 1.5em;
+    margin-bottom: 3%;
+}
+
+.main {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    font-size: 2em;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    color: #5f89ac;
+}
+
+.header {
+    font-size: 1.5em;
+}
+
+.class {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+
+.all {
+    display: flex;
+}
+
+.photo {
+    width: auto;
+    display: flex;
+}
+
+.text {
+    display: flex;
+    font-size: 3em;
+    flex-flow: column;
+}
+
+.name {
+    display: flex;
+    font-size: 3em;
+    flex-flow: column;
+    color: black;
+}
